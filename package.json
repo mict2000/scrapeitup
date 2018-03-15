@@ -1,0 +1,33 @@
+{
+  "name": "scrapeitup",
+  "version": "1.0.0",
+  "description": "Week 10 Scraping Homework",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.0.10",
+    "morgan": "^1.9.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mict2000"
+  },
+  "keywords": [
+    "Scrape",
+    "It",
+    "Up",
+    "Surfscrape",
+    "Facescrape"
+  ],
+  "author": "Mike Thompson",
+  "license": "ISC"
+}
