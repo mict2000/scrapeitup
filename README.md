@@ -13,10 +13,10 @@ https://scrapeitup.herokuapp.com/
 ![Screen shot](public/assets/img/index.png)
 Scraped news articles from The Verge
 
-![Screen shot](public/assets/img/article.jpg)
+![Screen shot](public/assets/img/article.png)
 Article page to read each article
 
-![Screen shot](public/assets/img/comments.png)
+![Screen shot](public/assets/img/comments.jpg)
 Add comments by filling in the form
 
 ## Technologies used
