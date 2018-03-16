@@ -1,9 +1,9 @@
-//dependencies
+// Dependencies
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 var logger = require('morgan');
 
-//initialize Express app
+// Initialize Express app
 var express = require('express');
 var app = express();
 
@@ -20,7 +20,7 @@ app.engine('handlebars', exphbs({
 }));
 app.set('view engine', 'handlebars');
 
-//connecting to MongoDB
+// Connect to MongoDB
 mongoose.connect('mongodb://heroku_jxkjhg1v:6s68tem51mlionrj2sneb7b53c@ds127988.mlab.com:27988/heroku_jxkjhg1v');
 
 //mongoose.connect('mongodb://localhost/scrapeitup');

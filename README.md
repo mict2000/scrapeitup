@@ -1,22 +1,19 @@
-https://scrapeitup.herokuapp.com
+# scrape-the-news
 
-# Scrapeitup
-
-
-Created in Week 10 of UCBerkeley Extension Coding Bootcamp. Uses Cheerio to scrape news articles from a site and allows the user to make comments and delete them. Uses Mongoose to store comments and articles.
+Created in Week 18 of RCB. Uses Cheerio to scrape news articles from a site and allows the user to make comments and delete them. Uses Mongoose to store comments and articles.
 
 ## Getting Started
 https://scrapeitup.herokuapp.com/
 
 ## Screen Shots
 
-![Screen shot](public/assets/img/index.png)
-Scraped news articles from The Verge
+![Screen shot](public/assets/img/ind1ex.png)
+Scraped news articles from WSL
 
-![Screen shot](public/assets/img/article.png)
+![Screen shot](public/assets/img/arti1cle.png)
 Article page to read each article
 
-![Screen shot](public/assets/img/comments.jpg)
+![Screen shot](public/assets/img/commen1ts.png)
 Add comments by filling in the form
 
 ## Technologies used
